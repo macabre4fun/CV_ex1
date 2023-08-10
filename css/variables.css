@@ -1,0 +1,16 @@
+:root {
+    --bg-col-left: #fff;
+    --bg-col-right: #000;
+    --text-color-col-right: #fff;
+    --text-color-col-left: #000;
+}
+.container {
+    --bg-header: orange;
+    --bg-border: orange;
+    --icon-color: orange;
+    --square-color: orange;
+}
+.hero-name {
+    background-color: var(--bg-header);
+}
+ 

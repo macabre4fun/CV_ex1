@@ -1,0 +1,11 @@
+.bg-col-right {
+    background-color: var(--bg-col-right);
+    color: var(--text-color-col-right);
+}
+.bg-col-left {
+    background-color: var(--bg-col-left);
+    color: var(--text-color-col-left);
+}
+.bg-col-left-title {
+    background-color: var(--bg-header);
+} 
